@@ -18,7 +18,11 @@ the central idea is create a os exclusively for terminal with ascii interfaz, th
 4. and possibly , the capacity to install other programs, but is dont secure this
 
 
+
+
+
 español:
+
 un simple os para terminal de linux , escrito y basado en c++ , version actual w-a0.0.0
 wolf os , es un mini sistema operativo escrito en c++.
 creado para correr en la terminal de linux.
