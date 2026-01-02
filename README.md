@@ -1,4 +1,6 @@
 #wolf-os
+
+
 english:
 
 a simple os for terminal/linux,  write and based on c++  actual version w-a0.0.2
